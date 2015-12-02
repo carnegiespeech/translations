@@ -27,3 +27,5 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Wikipedia';
 $string['search'] = '搜尋';
+$string['wikipedia:addinstance'] = '添加一個維基百科全書區塊';
+$string['wikipedia:myaddinstance'] = '添加一個維基百科全書區塊';

@@ -41,14 +41,14 @@ $string['authorfirstname'] = '作者的名字';
 $string['authorlastname'] = '作者的姓氏';
 $string['autogenallforms'] = '產生所有預設樣板';
 $string['autolinkurl'] = '自動連結網址';
-$string['availablefromdate'] = '開始時間';
+$string['availablefromdate'] = '活動開始時間';
 $string['availabletags'] = '可用的標籤';
 $string['availabletags_help'] = '標籤是樣板裡的佔位符號，它將會被資料和其他項目所取代，比如像編輯圖示，當條目被編輯和檢視時。
 
 欄位的格式是[[fieldname]]，而其他標籤的格式是##sometag##。
 
 目前的樣板只可以使用出現在"可用的標籤"清單上的標籤，其餘無效。';
-$string['availabletodate'] = '終止時間';
+$string['availabletodate'] = '活動結束時間';
 $string['blank'] = '空白';
 $string['buttons'] = '按鈕';
 $string['bynameondate'] = '{$a->name} - {$a->date}';
@@ -329,6 +329,6 @@ $string['url'] = '網址';
 $string['usedate'] = '包含在搜尋中';
 $string['usestandard'] = '使用一個預設值';
 $string['usestandard_help'] = '要使用一個可用於整個網站的預設樣板，請從這一清單選擇它。(若你曾使用"儲存為預設樣板"的功能來添加預設樣板到這清單上，那你可以選擇是否刪除它)';
-$string['viewfromdate'] = '可檢視範圍起始';
-$string['viewtodate'] = '可檢視範圍結束';
+$string['viewfromdate'] = '開始只能閱讀';
+$string['viewtodate'] = '結束只能閱讀';
 $string['wrongdataid'] = '提供的資料編號有誤';

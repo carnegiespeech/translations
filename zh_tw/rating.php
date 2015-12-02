@@ -54,7 +54,7 @@ $string['ratepermissiondenied'] = '你沒有權限去評比這一項目';
 $string['rating'] = '評比';
 $string['ratinginvalid'] = '評比無效';
 $string['ratings'] = '評比';
-$string['ratingtime'] = '限制只能在這一期限內對項目作評比：';
+$string['ratingtime'] = '限制在期限內評比：';
 $string['rolewarning'] = '有權限去評比的角色';
 $string['rolewarning_help'] = '要提交評比，用戶需要有moodle/rating:rate 權限，以及任何模組所指定的權限。
 被指派下列角色的用戶應該能夠評比項目。

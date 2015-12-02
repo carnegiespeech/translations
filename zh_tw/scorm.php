@@ -35,10 +35,14 @@ $string['aicchacpkeepsessiondata_desc'] = '要保存AICC HACP對話資料的天�
 $string['aicchacptimeout_desc'] = '外部AICC HACP工作階段可以保持開放的時間也多長';
 $string['allowapidebug'] = '啟用API除錯和追蹤()';
 $string['allowtypeaicchacp'] = '開啟外部AICC HACP';
+$string['allowtypeaicchacp_desc'] = '若啟用，將會允許AICC HACP外部溝通，而不需要用戶登入之後向外部的AICC包裹提出請求。';
 $string['allowtypeexternal'] = '啟用外部包裹類型';
 $string['allowtypeexternalaicc_desc'] = '若啟用，將允許使用一直接網址到一簡單AICC課程包';
 $string['allowtypeimsrepository'] = '啟用IMS課程包裹類型';
 $string['allowtypelocalsync'] = '啟用可以下載的課程包裹類型';
+$string['apidebugmask'] = 'API除錯抓取遮罩 --使用簡單正規表達式
+<username>:<activityname>
+例如 admin:.* 將只用於管理員的除錯';
 $string['areacontent'] = '內容檔案';
 $string['areapackage'] = '課程包檔案';
 $string['asset'] = '資源';

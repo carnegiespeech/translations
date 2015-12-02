@@ -41,6 +41,13 @@ $string['mnet_nofilecontents'] = '在傳遞的物件中找到檔案，但無法�
 $string['mnet_noid'] = '無法為這通行憑證找到配對的傳遞紀錄';
 $string['mnet_notoken'] = '無法找到配合這一傳遞的通行憑證';
 $string['mnet_wronghost'] = '遠端主機無法為這通行憑證找到配對的傳遞紀錄';
+$string['pf_description'] = '允許用戶推播Moodle內容到這一主機<br />
+訂閱<b>和</b>發行這一服務可以允許在你網站的已經認證的用戶推播內容到{$a}。<br />
+<ul>
+<li>你也必須<strong>發行</strong>SSO服務到{$a}</li>
+<li>你也必須<strong>訂閱</strong>在{$a}的SSO(服務提供者)服務</li>
+<li>你也必須啟用MNet認證外掛</li>
+</ul>';
 $string['pf_name'] = '作品選集服務';
 $string['pluginname'] = 'Mahara 電子作品選集服務';
 $string['senddisallowed'] = '在這時候，你無法轉移檔案到Mahara';

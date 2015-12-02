@@ -26,3 +26,5 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['changetextcolour'] = '下一个文字颜色';
+$string['checklist:emailoncomplete'] = '收到完成电子邮件';
+$string['emailoncomplete'] = '当检查清单完成时电邮：';
